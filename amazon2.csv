@@ -1,0 +1,1001 @@
+year,month,state,number,date
+2020,Fevereiro,Acre,760,2020-02-09
+2013,Abril,Bahia,755,2013-04-04
+2020,Dezembro,Piauí,90,2020-12-19
+2016,Janeiro,Acre,96,2016-01-07
+2013,Setembro,Rio Grande do Norte,28,2013-09-18
+2013,Dezembro,Rio Grande do Sul,719,2013-12-18
+2016,Abril,Paraíba,604,2016-04-09
+2022,Janeiro,São Paulo,826,2022-01-06
+2021,Julho,Mato Grosso,285,2021-07-05
+2013,Junho,Amazonas,95,2013-06-13
+2011,Junho,Mato Grosso do Sul,619,2011-06-09
+2022,Janeiro,Santa Catarina,471,2022-01-18
+2011,Julho,Amapá,566,2011-07-10
+2023,Novembro,Rio Grande do Norte,907,2023-11-28
+2015,Outubro,Distrito Federal,722,2015-10-03
+2010,Novembro,Espírito Santo,792,2010-11-10
+2011,Abril,Amazonas,390,2011-04-09
+2017,Novembro,Tocantins,374,2017-11-06
+2015,Junho,Distrito Federal,687,2015-06-09
+2021,Novembro,Rio Grande do Sul,74,2021-11-20
+2020,Março,Piauí,747,2020-03-08
+2012,Agosto,Minas Gerais,277,2012-08-21
+2021,Setembro,Espírito Santo,702,2021-09-11
+2023,Janeiro,Espírito Santo,842,2023-01-02
+2022,Junho,Minas Gerais,275,2022-06-03
+2013,Outubro,Roraima,323,2013-10-07
+2020,Agosto,Minas Gerais,906,2020-08-21
+2017,Março,Goiás,143,2017-03-08
+2021,Setembro,Piauí,270,2021-09-24
+2019,Julho,Rio de Janeiro,409,2019-07-12
+2013,Março,Pernambuco,506,2013-03-03
+2022,Janeiro,Amazonas,157,2022-01-21
+2012,Novembro,Pará,611,2012-11-03
+2016,Julho,Rio Grande do Norte,480,2016-07-17
+2014,Setembro,Acre,697,2014-09-24
+2011,Novembro,Piauí,769,2011-11-09
+2022,Novembro,Mato Grosso,115,2022-11-10
+2016,Março,Paraíba,4,2016-03-24
+2024,Dezembro,Goiás,996,2024-12-17
+2022,Março,Pernambuco,935,2022-03-04
+2023,Novembro,Maranhão,862,2023-11-21
+2018,Outubro,Distrito Federal,157,2018-10-12
+2022,Março,Piauí,977,2022-03-25
+2024,Setembro,Acre,614,2024-09-11
+2017,Janeiro,Amazonas,952,2017-01-12
+2024,Maio,Espírito Santo,60,2024-05-08
+2024,Outubro,Amapá,88,2024-10-24
+2017,Fevereiro,São Paulo,546,2017-02-25
+2012,Março,Rondônia,487,2012-03-18
+2012,Maio,Pernambuco,894,2012-05-20
+2016,Abril,Piauí,774,2016-04-24
+2021,Abril,Roraima,320,2021-04-13
+2020,Novembro,Mato Grosso do Sul,449,2020-11-17
+2017,Fevereiro,Espírito Santo,231,2017-02-03
+2015,Janeiro,Rio de Janeiro,568,2015-01-08
+2019,Abril,Acre,73,2019-04-23
+2020,Janeiro,Espírito Santo,70,2020-01-02
+2023,Junho,Amapá,527,2023-06-08
+2014,Novembro,Paraná,220,2014-11-18
+2012,Dezembro,Rio de Janeiro,591,2012-12-16
+2013,Agosto,Sergipe,417,2013-08-07
+2011,Fevereiro,Rondônia,442,2011-02-12
+2016,Julho,Paraíba,885,2016-07-24
+2010,Novembro,Rio Grande do Sul,662,2010-11-04
+2010,Julho,Santa Catarina,348,2010-07-26
+2023,Fevereiro,Espírito Santo,197,2023-02-07
+2018,Agosto,Bahia,433,2018-08-06
+2014,Agosto,Espírito Santo,896,2014-08-03
+2017,Setembro,Amazonas,52,2017-09-21
+2018,Janeiro,Amapá,949,2018-01-25
+2023,Abril,Ceará,417,2023-04-16
+2017,Abril,Minas Gerais,925,2017-04-02
+2012,Julho,Acre,400,2012-07-09
+2024,Agosto,Maranhão,434,2024-08-23
+2021,Setembro,Rondônia,736,2021-09-16
+2012,Abril,Maranhão,223,2012-04-02
+2019,Dezembro,Piauí,63,2019-12-24
+2015,Janeiro,Alagoas,599,2015-01-16
+2018,Setembro,Ceará,59,2018-09-17
+2011,Março,Amapá,610,2011-03-03
+2020,Abril,Minas Gerais,123,2020-04-19
+2013,Outubro,Rio Grande do Norte,41,2013-10-20
+2011,Julho,Rondônia,598,2011-07-19
+2018,Junho,Goiás,210,2018-06-22
+2021,Junho,Espírito Santo,272,2021-06-13
+2012,Novembro,Rio Grande do Sul,308,2012-11-15
+2015,Fevereiro,Acre,470,2015-02-20
+2019,Fevereiro,Amapá,551,2019-02-07
+2018,Maio,Bahia,956,2018-05-12
+2024,Fevereiro,Espírito Santo,379,2024-02-10
+2012,Agosto,Tocantins,557,2012-08-23
+2014,Outubro,Sergipe,670,2014-10-17
+2010,Novembro,Tocantins,568,2010-11-10
+2024,Novembro,Amazonas,962,2024-11-05
+2014,Fevereiro,Amazonas,761,2014-02-18
+2012,Maio,Maranhão,620,2012-05-07
+2021,Junho,Distrito Federal,704,2021-06-21
+2023,Maio,Pernambuco,501,2023-05-09
+2024,Janeiro,Amapá,650,2024-01-14
+2023,Maio,Alagoas,4,2023-05-11
+2022,Março,Rio Grande do Sul,269,2022-03-06
+2021,Agosto,Piauí,723,2021-08-14
+2018,Janeiro,Amazonas,78,2018-01-23
+2024,Março,Piauí,37,2024-03-27
+2015,Outubro,Piauí,152,2015-10-14
+2012,Janeiro,Maranhão,374,2012-01-26
+2023,Janeiro,Mato Grosso do Sul,216,2023-01-22
+2013,Novembro,Amazonas,363,2013-11-25
+2018,Julho,Rio Grande do Norte,768,2018-07-05
+2024,Abril,Ceará,1000,2024-04-26
+2022,Março,Pará,26,2022-03-06
+2021,Junho,Sergipe,954,2021-06-14
+2022,Novembro,Santa Catarina,831,2022-11-08
+2014,Março,Sergipe,719,2014-03-04
+2016,Janeiro,Paraná,228,2016-01-07
+2023,Agosto,Mato Grosso do Sul,313,2023-08-27
+2022,Abril,Espírito Santo,25,2022-04-22
+2013,Julho,Mato Grosso,286,2013-07-28
+2011,Maio,Mato Grosso do Sul,657,2011-05-17
+2016,Novembro,Tocantins,550,2016-11-11
+2010,Fevereiro,Goiás,183,2010-02-19
+2014,Janeiro,Amazonas,611,2014-01-14
+2015,Dezembro,Sergipe,322,2015-12-14
+2019,Setembro,Amazonas,395,2019-09-19
+2013,Maio,Alagoas,726,2013-05-14
+2010,Setembro,Sergipe,552,2010-09-22
+2021,Dezembro,Santa Catarina,687,2021-12-07
+2015,Julho,Amapá,972,2015-07-22
+2024,Junho,Rio Grande do Norte,322,2024-06-22
+2023,Fevereiro,Santa Catarina,922,2023-02-10
+2018,Maio,Rondônia,419,2018-05-11
+2016,Dezembro,Maranhão,568,2016-12-05
+2013,Julho,Rondônia,963,2013-07-13
+2020,Dezembro,Ceará,631,2020-12-19
+2014,Julho,Piauí,854,2014-07-01
+2014,Maio,Distrito Federal,441,2014-05-26
+2019,Outubro,Rio Grande do Sul,330,2019-10-15
+2017,Agosto,Rondônia,219,2017-08-17
+2017,Dezembro,Ceará,675,2017-12-03
+2014,Setembro,Rondônia,649,2014-09-20
+2015,Fevereiro,Tocantins,975,2015-02-25
+2013,Novembro,Maranhão,231,2013-11-26
+2013,Março,Acre,48,2013-03-08
+2017,Outubro,São Paulo,75,2017-10-15
+2016,Novembro,Rio de Janeiro,200,2016-11-23
+2021,Julho,Paraná,410,2021-07-08
+2012,Novembro,Roraima,6,2012-11-25
+2023,Fevereiro,São Paulo,436,2023-02-08
+2012,Dezembro,Pernambuco,476,2012-12-02
+2018,Abril,Amazonas,468,2018-04-05
+2022,Agosto,Rondônia,544,2022-08-18
+2019,Junho,São Paulo,913,2019-06-15
+2019,Dezembro,Pernambuco,437,2019-12-27
+2024,Setembro,Paraíba,919,2024-09-06
+2021,Agosto,Paraíba,266,2021-08-25
+2013,Novembro,Goiás,785,2013-11-25
+2018,Agosto,Rio Grande do Sul,245,2018-08-09
+2017,Fevereiro,Roraima,293,2017-02-08
+2014,Junho,Mato Grosso,915,2014-06-18
+2011,Março,Bahia,237,2011-03-13
+2021,Março,Roraima,220,2021-03-03
+2016,Julho,Mato Grosso,556,2016-07-15
+2016,Janeiro,Distrito Federal,853,2016-01-14
+2016,Outubro,Roraima,21,2016-10-28
+2024,Outubro,Minas Gerais,489,2024-10-01
+2015,Maio,São Paulo,400,2015-05-28
+2024,Julho,Piauí,766,2024-07-24
+2018,Outubro,Espírito Santo,500,2018-10-08
+2014,Julho,Paraná,30,2014-07-13
+2015,Novembro,Rondônia,818,2015-11-13
+2021,Março,Tocantins,479,2021-03-05
+2019,Setembro,Acre,929,2019-09-13
+2019,Outubro,Rondônia,28,2019-10-03
+2020,Julho,Bahia,888,2020-07-15
+2012,Janeiro,Goiás,389,2012-01-11
+2013,Agosto,Mato Grosso,346,2013-08-25
+2024,Julho,Goiás,771,2024-07-27
+2016,Maio,Tocantins,84,2016-05-16
+2010,Dezembro,Piauí,54,2010-12-12
+2013,Novembro,Amapá,800,2013-11-21
+2010,Janeiro,Espírito Santo,205,2010-01-27
+2010,Outubro,Bahia,245,2010-10-05
+2017,Novembro,Amazonas,578,2017-11-07
+2017,Dezembro,Goiás,786,2017-12-12
+2012,Outubro,Rio Grande do Norte,987,2012-10-24
+2021,Fevereiro,São Paulo,839,2021-02-06
+2014,Fevereiro,Rio de Janeiro,27,2014-02-10
+2019,Novembro,Minas Gerais,407,2019-11-23
+2013,Fevereiro,Rio de Janeiro,708,2013-02-27
+2020,Abril,Amazonas,714,2020-04-25
+2014,Novembro,Rio Grande do Norte,825,2014-11-04
+2022,Outubro,Sergipe,43,2022-10-12
+2018,Julho,Rondônia,380,2018-07-03
+2018,Novembro,Mato Grosso,13,2018-11-28
+2016,Agosto,Amazonas,444,2016-08-12
+2020,Agosto,Roraima,157,2020-08-14
+2012,Dezembro,Pernambuco,989,2012-12-21
+2014,Outubro,Sergipe,942,2014-10-18
+2022,Agosto,Paraíba,447,2022-08-27
+2021,Outubro,Goiás,331,2021-10-28
+2013,Fevereiro,Goiás,903,2013-02-15
+2013,Agosto,Rio de Janeiro,625,2013-08-22
+2016,Junho,Acre,507,2016-06-28
+2015,Março,Paraná,218,2015-03-12
+2022,Maio,Mato Grosso,287,2022-05-20
+2021,Maio,Piauí,11,2021-05-17
+2013,Fevereiro,Espírito Santo,738,2013-02-14
+2017,Setembro,São Paulo,247,2017-09-23
+2017,Novembro,Roraima,503,2017-11-15
+2022,Janeiro,Amapá,302,2022-01-08
+2016,Dezembro,Espírito Santo,314,2016-12-22
+2019,Junho,Paraná,567,2019-06-17
+2015,Julho,Santa Catarina,564,2015-07-11
+2015,Dezembro,Paraíba,278,2015-12-10
+2014,Abril,Amazonas,739,2014-04-07
+2015,Fevereiro,Santa Catarina,549,2015-02-25
+2021,Março,Distrito Federal,222,2021-03-24
+2017,Maio,Santa Catarina,604,2017-05-25
+2018,Outubro,Maranhão,103,2018-10-27
+2013,Maio,Espírito Santo,370,2013-05-06
+2014,Janeiro,Roraima,547,2014-01-05
+2014,Janeiro,Alagoas,567,2014-01-10
+2021,Março,Rio Grande do Sul,890,2021-03-25
+2017,Fevereiro,Acre,588,2017-02-10
+2017,Agosto,Paraíba,349,2017-08-06
+2010,Maio,Paraná,117,2010-05-27
+2011,Julho,Paraná,76,2011-07-19
+2020,Novembro,Alagoas,156,2020-11-05
+2022,Outubro,Maranhão,88,2022-10-08
+2011,Setembro,São Paulo,427,2011-09-20
+2019,Outubro,Espírito Santo,795,2019-10-17
+2016,Agosto,Paraíba,305,2016-08-28
+2019,Julho,Maranhão,583,2019-07-20
+2010,Outubro,Santa Catarina,102,2010-10-25
+2013,Novembro,Distrito Federal,271,2013-11-22
+2011,Março,Espírito Santo,178,2011-03-18
+2011,Março,Acre,419,2011-03-15
+2021,Outubro,Paraná,299,2021-10-02
+2013,Maio,Roraima,290,2013-05-23
+2023,Agosto,Amapá,704,2023-08-08
+2024,Maio,Sergipe,811,2024-05-21
+2019,Novembro,Sergipe,957,2019-11-07
+2016,Fevereiro,Piauí,231,2016-02-21
+2012,Maio,Tocantins,146,2012-05-03
+2010,Março,Sergipe,315,2010-03-20
+2021,Outubro,Maranhão,450,2021-10-04
+2017,Dezembro,Maranhão,717,2017-12-13
+2014,Setembro,Piauí,506,2014-09-15
+2011,Outubro,Alagoas,911,2011-10-14
+2021,Junho,Rio Grande do Norte,257,2021-06-01
+2011,Abril,Rondônia,857,2011-04-28
+2019,Outubro,Acre,784,2019-10-22
+2023,Maio,Rio de Janeiro,42,2023-05-25
+2022,Março,Paraná,532,2022-03-21
+2017,Maio,Ceará,600,2017-05-14
+2020,Agosto,Amapá,482,2020-08-12
+2016,Junho,Mato Grosso,687,2016-06-04
+2023,Março,Mato Grosso,422,2023-03-23
+2017,Maio,Rondônia,968,2017-05-13
+2023,Setembro,Alagoas,466,2023-09-03
+2015,Maio,Mato Grosso,119,2015-05-25
+2016,Setembro,Tocantins,2,2016-09-22
+2023,Setembro,Paraíba,424,2023-09-02
+2013,Setembro,Mato Grosso do Sul,638,2013-09-25
+2017,Novembro,Paraíba,779,2017-11-02
+2013,Maio,Piauí,135,2013-05-10
+2017,Dezembro,Paraná,125,2017-12-01
+2020,Outubro,Sergipe,246,2020-10-23
+2012,Maio,Piauí,15,2012-05-18
+2016,Fevereiro,Espírito Santo,862,2016-02-04
+2017,Fevereiro,Rio Grande do Sul,853,2017-02-05
+2017,Dezembro,Maranhão,522,2017-12-23
+2014,Julho,Tocantins,495,2014-07-16
+2013,Agosto,Piauí,149,2013-08-13
+2013,Outubro,Pernambuco,765,2013-10-05
+2023,Fevereiro,Goiás,792,2023-02-26
+2023,Julho,Mato Grosso,957,2023-07-26
+2018,Maio,Tocantins,3,2018-05-10
+2021,Maio,Tocantins,602,2021-05-19
+2020,Agosto,Bahia,458,2020-08-18
+2017,Junho,Mato Grosso,566,2017-06-25
+2018,Julho,Paraíba,956,2018-07-11
+2023,Abril,Roraima,245,2023-04-19
+2016,Abril,São Paulo,421,2016-04-02
+2015,Dezembro,Paraná,723,2015-12-26
+2016,Julho,Rondônia,812,2016-07-27
+2020,Março,Paraná,988,2020-03-02
+2012,Setembro,Rio de Janeiro,340,2012-09-28
+2011,Agosto,Amazonas,539,2011-08-15
+2010,Dezembro,Bahia,420,2010-12-28
+2020,Março,Amapá,481,2020-03-26
+2014,Junho,Rio Grande do Norte,710,2014-06-13
+2020,Fevereiro,Mato Grosso,873,2020-02-22
+2023,Setembro,Minas Gerais,978,2023-09-11
+2020,Dezembro,São Paulo,500,2020-12-28
+2018,Janeiro,Rio Grande do Norte,71,2018-01-08
+2020,Novembro,Maranhão,233,2020-11-24
+2011,Julho,Amazonas,779,2011-07-21
+2021,Fevereiro,Paraíba,171,2021-02-23
+2014,Janeiro,Alagoas,333,2014-01-26
+2010,Maio,Mato Grosso do Sul,384,2010-05-14
+2012,Abril,Pernambuco,422,2012-04-19
+2020,Março,Ceará,180,2020-03-03
+2019,Julho,Rio Grande do Norte,700,2019-07-08
+2017,Outubro,Bahia,238,2017-10-15
+2020,Maio,Paraíba,262,2020-05-22
+2010,Agosto,Maranhão,694,2010-08-18
+2012,Fevereiro,Paraíba,968,2012-02-12
+2019,Maio,Rio Grande do Sul,986,2019-05-14
+2021,Maio,Paraíba,866,2021-05-10
+2013,Julho,Paraná,110,2013-07-08
+2016,Outubro,Mato Grosso do Sul,589,2016-10-10
+2021,Maio,Acre,850,2021-05-22
+2016,Maio,Acre,580,2016-05-28
+2020,Dezembro,Alagoas,933,2020-12-20
+2021,Agosto,Tocantins,926,2021-08-10
+2022,Abril,Rio Grande do Norte,822,2022-04-12
+2013,Novembro,Distrito Federal,636,2013-11-09
+2020,Dezembro,São Paulo,676,2020-12-22
+2023,Março,Rio Grande do Sul,100,2023-03-21
+2020,Janeiro,Maranhão,808,2020-01-15
+2010,Outubro,Mato Grosso do Sul,750,2010-10-05
+2011,Maio,Mato Grosso,766,2011-05-14
+2012,Abril,Bahia,806,2012-04-18
+2024,Junho,Pernambuco,514,2024-06-09
+2023,Março,Goiás,936,2023-03-27
+2017,Maio,Santa Catarina,892,2017-05-11
+2022,Fevereiro,Paraíba,987,2022-02-03
+2012,Abril,Rondônia,742,2012-04-22
+2016,Setembro,Mato Grosso do Sul,93,2016-09-26
+2016,Janeiro,Goiás,550,2016-01-04
+2017,Junho,Rondônia,767,2017-06-22
+2014,Outubro,Minas Gerais,843,2014-10-21
+2015,Fevereiro,Rondônia,240,2015-02-16
+2010,Outubro,Piauí,336,2010-10-20
+2013,Novembro,Amapá,651,2013-11-27
+2017,Dezembro,Maranhão,665,2017-12-14
+2011,Março,Alagoas,969,2011-03-02
+2014,Agosto,Amazonas,100,2014-08-08
+2024,Setembro,Bahia,398,2024-09-15
+2015,Novembro,Santa Catarina,714,2015-11-18
+2016,Outubro,Santa Catarina,745,2016-10-05
+2024,Julho,Rio Grande do Sul,102,2024-07-27
+2017,Outubro,Pará,962,2017-10-09
+2010,Dezembro,Mato Grosso do Sul,223,2010-12-15
+2017,Abril,Mato Grosso do Sul,102,2017-04-22
+2015,Setembro,Rio Grande do Sul,368,2015-09-02
+2016,Maio,Distrito Federal,992,2016-05-04
+2023,Agosto,Amapá,679,2023-08-07
+2020,Novembro,Rio Grande do Norte,995,2020-11-01
+2010,Junho,Espírito Santo,129,2010-06-26
+2019,Abril,Amapá,850,2019-04-25
+2018,Abril,Rio de Janeiro,222,2018-04-27
+2023,Abril,Mato Grosso,793,2023-04-05
+2022,Outubro,Acre,284,2022-10-28
+2012,Março,Piauí,257,2012-03-26
+2012,Fevereiro,Rondônia,888,2012-02-01
+2012,Janeiro,Mato Grosso do Sul,809,2012-01-26
+2013,Outubro,Mato Grosso,17,2013-10-06
+2014,Janeiro,Bahia,760,2014-01-14
+2018,Fevereiro,Santa Catarina,66,2018-02-16
+2017,Junho,Pernambuco,608,2017-06-04
+2017,Setembro,Espírito Santo,969,2017-09-20
+2010,Dezembro,Sergipe,931,2010-12-28
+2020,Setembro,Maranhão,470,2020-09-21
+2010,Janeiro,Paraná,868,2010-01-13
+2016,Novembro,Amazonas,503,2016-11-23
+2024,Agosto,Amapá,921,2024-08-03
+2015,Outubro,Bahia,68,2015-10-05
+2014,Outubro,Rio Grande do Sul,600,2014-10-18
+2021,Junho,Minas Gerais,612,2021-06-17
+2014,Agosto,Pernambuco,620,2014-08-14
+2011,Dezembro,Amazonas,874,2011-12-21
+2020,Setembro,Santa Catarina,887,2020-09-07
+2016,Agosto,Espírito Santo,424,2016-08-11
+2023,Agosto,Minas Gerais,426,2023-08-24
+2011,Junho,Pará,321,2011-06-22
+2014,Junho,Bahia,704,2014-06-16
+2011,Fevereiro,Tocantins,88,2011-02-03
+2016,Fevereiro,Santa Catarina,757,2016-02-12
+2022,Março,Piauí,62,2022-03-19
+2018,Setembro,Mato Grosso,687,2018-09-04
+2016,Junho,Rondônia,964,2016-06-25
+2016,Dezembro,Alagoas,992,2016-12-10
+2019,Maio,Mato Grosso do Sul,107,2019-05-19
+2018,Abril,Bahia,673,2018-04-16
+2013,Fevereiro,Mato Grosso do Sul,866,2013-02-18
+2015,Fevereiro,São Paulo,286,2015-02-19
+2013,Julho,Piauí,998,2013-07-25
+2023,Outubro,Rio Grande do Norte,692,2023-10-21
+2018,Janeiro,Rio Grande do Norte,952,2018-01-22
+2023,Dezembro,Goiás,30,2023-12-06
+2014,Dezembro,São Paulo,317,2014-12-11
+2015,Janeiro,Ceará,891,2015-01-05
+2019,Novembro,Minas Gerais,72,2019-11-05
+2021,Novembro,Acre,94,2021-11-24
+2018,Abril,Minas Gerais,430,2018-04-15
+2015,Março,Mato Grosso do Sul,320,2015-03-24
+2015,Outubro,Rio Grande do Norte,87,2015-10-02
+2012,Março,São Paulo,633,2012-03-02
+2020,Fevereiro,Goiás,454,2020-02-22
+2016,Agosto,Rio Grande do Norte,453,2016-08-14
+2014,Abril,São Paulo,525,2014-04-04
+2015,Julho,Amazonas,291,2015-07-22
+2020,Outubro,Paraná,540,2020-10-22
+2014,Janeiro,Espírito Santo,405,2014-01-20
+2010,Janeiro,Distrito Federal,309,2010-01-07
+2022,Março,São Paulo,262,2022-03-10
+2015,Fevereiro,Acre,510,2015-02-24
+2016,Março,Bahia,390,2016-03-18
+2021,Abril,Pernambuco,573,2021-04-27
+2020,Junho,Amapá,407,2020-06-28
+2021,Janeiro,Pará,20,2021-01-15
+2024,Fevereiro,Mato Grosso,590,2024-02-14
+2019,Julho,Roraima,656,2019-07-14
+2014,Fevereiro,Minas Gerais,22,2014-02-11
+2012,Outubro,Paraíba,852,2012-10-23
+2024,Junho,Amapá,448,2024-06-28
+2011,Abril,Pará,604,2011-04-13
+2018,Fevereiro,Minas Gerais,892,2018-02-10
+2021,Junho,Espírito Santo,342,2021-06-25
+2012,Fevereiro,Pernambuco,649,2012-02-04
+2018,Setembro,Distrito Federal,928,2018-09-25
+2015,Junho,Santa Catarina,982,2015-06-27
+2020,Março,Espírito Santo,106,2020-03-05
+2014,Abril,Ceará,617,2014-04-05
+2022,Novembro,Amapá,182,2022-11-25
+2020,Agosto,Paraíba,773,2020-08-19
+2022,Outubro,Paraíba,698,2022-10-19
+2020,Novembro,Rio Grande do Norte,331,2020-11-28
+2020,Junho,Bahia,451,2020-06-03
+2017,Agosto,Rio Grande do Sul,311,2017-08-26
+2014,Outubro,Alagoas,361,2014-10-17
+2011,Maio,Paraíba,463,2011-05-02
+2010,Junho,Tocantins,294,2010-06-03
+2020,Fevereiro,Rio Grande do Norte,609,2020-02-17
+2016,Agosto,Rio de Janeiro,568,2016-08-26
+2021,Janeiro,Paraíba,931,2021-01-26
+2019,Novembro,Distrito Federal,330,2019-11-20
+2017,Setembro,Bahia,981,2017-09-02
+2017,Fevereiro,Sergipe,921,2017-02-27
+2015,Dezembro,Amapá,517,2015-12-21
+2012,Janeiro,Espírito Santo,725,2012-01-15
+2017,Setembro,Pernambuco,625,2017-09-06
+2015,Junho,Maranhão,397,2015-06-14
+2022,Junho,Rondônia,613,2022-06-02
+2022,Novembro,Rio Grande do Sul,343,2022-11-03
+2015,Fevereiro,Piauí,695,2015-02-13
+2014,Maio,Santa Catarina,873,2014-05-22
+2024,Outubro,Bahia,342,2024-10-03
+2019,Novembro,Bahia,939,2019-11-12
+2014,Novembro,Roraima,679,2014-11-13
+2012,Outubro,Roraima,961,2012-10-03
+2014,Setembro,Minas Gerais,659,2014-09-26
+2015,Março,Rondônia,720,2015-03-27
+2021,Novembro,Pernambuco,96,2021-11-21
+2020,Julho,Pernambuco,371,2020-07-01
+2015,Maio,Ceará,974,2015-05-07
+2015,Agosto,Distrito Federal,232,2015-08-05
+2012,Fevereiro,Maranhão,865,2012-02-26
+2011,Setembro,São Paulo,553,2011-09-27
+2021,Setembro,Alagoas,678,2021-09-11
+2024,Outubro,Bahia,612,2024-10-13
+2012,Março,Ceará,852,2012-03-23
+2022,Outubro,Sergipe,925,2022-10-06
+2021,Agosto,Alagoas,421,2021-08-12
+2020,Dezembro,Espírito Santo,993,2020-12-15
+2019,Maio,São Paulo,767,2019-05-26
+2017,Abril,Piauí,245,2017-04-10
+2022,Agosto,Tocantins,199,2022-08-12
+2020,Outubro,Paraíba,473,2020-10-25
+2014,Julho,Pernambuco,541,2014-07-14
+2012,Abril,Sergipe,620,2012-04-05
+2023,Maio,Alagoas,657,2023-05-16
+2023,Junho,Piauí,957,2023-06-04
+2021,Setembro,Amazonas,292,2021-09-03
+2022,Março,Goiás,461,2022-03-17
+2012,Julho,Amapá,970,2012-07-08
+2023,Agosto,Mato Grosso do Sul,953,2023-08-01
+2016,Janeiro,Minas Gerais,515,2016-01-12
+2013,Julho,Amapá,384,2013-07-08
+2010,Junho,Amazonas,860,2010-06-23
+2020,Junho,Sergipe,150,2020-06-05
+2010,Maio,Tocantins,484,2010-05-23
+2023,Março,São Paulo,723,2023-03-16
+2017,Outubro,Acre,928,2017-10-03
+2010,Maio,Distrito Federal,856,2010-05-05
+2018,Dezembro,Rio Grande do Norte,541,2018-12-14
+2011,Maio,Espírito Santo,309,2011-05-04
+2010,Abril,Pará,655,2010-04-26
+2019,Agosto,Amapá,114,2019-08-27
+2024,Agosto,Rio Grande do Norte,549,2024-08-01
+2020,Setembro,Rio de Janeiro,248,2020-09-23
+2012,Maio,Pará,2,2012-05-20
+2015,Abril,Rio de Janeiro,427,2015-04-06
+2020,Novembro,Amapá,537,2020-11-12
+2011,Setembro,Piauí,520,2011-09-26
+2018,Setembro,Acre,400,2018-09-28
+2017,Janeiro,Rio Grande do Sul,397,2017-01-12
+2014,Dezembro,Acre,366,2014-12-26
+2011,Junho,Espírito Santo,751,2011-06-22
+2020,Fevereiro,São Paulo,596,2020-02-24
+2022,Junho,Bahia,46,2022-06-12
+2018,Junho,Tocantins,659,2018-06-06
+2023,Novembro,Paraíba,713,2023-11-16
+2020,Março,Sergipe,139,2020-03-03
+2021,Agosto,Alagoas,301,2021-08-07
+2010,Abril,Alagoas,324,2010-04-10
+2018,Julho,Tocantins,557,2018-07-16
+2014,Janeiro,São Paulo,663,2014-01-07
+2014,Junho,São Paulo,49,2014-06-28
+2020,Junho,Goiás,128,2020-06-26
+2015,Julho,Minas Gerais,762,2015-07-15
+2024,Julho,Mato Grosso,998,2024-07-06
+2017,Dezembro,Paraná,377,2017-12-26
+2018,Maio,Sergipe,85,2018-05-24
+2016,Fevereiro,Pará,617,2016-02-27
+2012,Setembro,Maranhão,329,2012-09-04
+2011,Junho,Rondônia,303,2011-06-10
+2017,Outubro,Roraima,437,2017-10-06
+2021,Agosto,Mato Grosso do Sul,458,2021-08-02
+2021,Junho,Rio Grande do Norte,446,2021-06-09
+2020,Janeiro,Amapá,688,2020-01-21
+2016,Junho,Pernambuco,821,2016-06-24
+2020,Março,Acre,147,2020-03-28
+2019,Novembro,Sergipe,449,2019-11-02
+2012,Fevereiro,Espírito Santo,798,2012-02-21
+2015,Junho,Minas Gerais,973,2015-06-19
+2010,Outubro,Bahia,696,2010-10-15
+2015,Junho,Paraíba,782,2015-06-03
+2019,Março,Pernambuco,376,2019-03-13
+2015,Novembro,Goiás,256,2015-11-04
+2010,Dezembro,Ceará,512,2010-12-17
+2016,Setembro,Amazonas,269,2016-09-25
+2014,Dezembro,Paraíba,220,2014-12-20
+2014,Dezembro,Paraná,205,2014-12-04
+2012,Fevereiro,Paraíba,177,2012-02-23
+2017,Fevereiro,Sergipe,699,2017-02-28
+2015,Novembro,Mato Grosso do Sul,727,2015-11-03
+2018,Setembro,Maranhão,913,2018-09-10
+2023,Março,Roraima,727,2023-03-23
+2020,Março,Sergipe,371,2020-03-17
+2013,Fevereiro,Distrito Federal,812,2013-02-05
+2013,Agosto,Acre,370,2013-08-18
+2019,Junho,Paraíba,823,2019-06-18
+2012,Outubro,Amapá,68,2012-10-10
+2016,Dezembro,Santa Catarina,491,2016-12-17
+2016,Julho,Tocantins,589,2016-07-03
+2012,Junho,Rio Grande do Sul,76,2012-06-15
+2017,Novembro,Pernambuco,353,2017-11-05
+2024,Setembro,Rio Grande do Sul,602,2024-09-06
+2022,Março,Pará,515,2022-03-28
+2010,Fevereiro,Pernambuco,157,2010-02-10
+2012,Março,Mato Grosso,958,2012-03-23
+2013,Junho,Pernambuco,917,2013-06-10
+2023,Fevereiro,Goiás,202,2023-02-21
+2018,Maio,Bahia,641,2018-05-10
+2019,Setembro,Amapá,515,2019-09-21
+2012,Outubro,Rio de Janeiro,158,2012-10-06
+2020,Outubro,Santa Catarina,924,2020-10-20
+2015,Outubro,Alagoas,846,2015-10-28
+2010,Fevereiro,Alagoas,972,2010-02-21
+2022,Outubro,Goiás,667,2022-10-07
+2022,Outubro,Pará,633,2022-10-21
+2010,Agosto,Rio Grande do Sul,559,2010-08-10
+2020,Maio,Paraná,251,2020-05-26
+2022,Novembro,Minas Gerais,305,2022-11-15
+2011,Dezembro,Alagoas,162,2011-12-15
+2016,Agosto,Paraíba,209,2016-08-11
+2019,Março,Mato Grosso,883,2019-03-23
+2015,Dezembro,Mato Grosso do Sul,999,2015-12-13
+2012,Junho,Pernambuco,576,2012-06-04
+2015,Abril,Paraíba,126,2015-04-09
+2017,Abril,Bahia,100,2017-04-02
+2014,Julho,Rio Grande do Norte,429,2014-07-08
+2023,Março,Tocantins,336,2023-03-19
+2021,Junho,Distrito Federal,782,2021-06-06
+2017,Setembro,Paraíba,511,2017-09-10
+2017,Janeiro,Amapá,968,2017-01-13
+2018,Agosto,Espírito Santo,221,2018-08-19
+2015,Janeiro,Alagoas,289,2015-01-16
+2019,Novembro,Rondônia,482,2019-11-10
+2018,Janeiro,Amazonas,442,2018-01-05
+2024,Maio,Santa Catarina,375,2024-05-25
+2016,Junho,Alagoas,411,2016-06-02
+2019,Setembro,Distrito Federal,372,2019-09-18
+2014,Fevereiro,Minas Gerais,517,2014-02-15
+2022,Setembro,Goiás,846,2022-09-20
+2020,Outubro,Amazonas,132,2020-10-04
+2016,Junho,Sergipe,348,2016-06-18
+2015,Março,Distrito Federal,617,2015-03-17
+2016,Setembro,Alagoas,47,2016-09-02
+2012,Dezembro,Mato Grosso,824,2012-12-16
+2018,Agosto,Bahia,621,2018-08-17
+2012,Junho,Rio Grande do Norte,327,2012-06-06
+2016,Outubro,Santa Catarina,863,2016-10-10
+2019,Junho,Pernambuco,849,2019-06-17
+2018,Agosto,Roraima,577,2018-08-10
+2017,Janeiro,Mato Grosso do Sul,340,2017-01-22
+2011,Julho,Rio de Janeiro,316,2011-07-26
+2024,Dezembro,Roraima,645,2024-12-01
+2019,Agosto,Goiás,991,2019-08-21
+2022,Outubro,Rio de Janeiro,234,2022-10-24
+2010,Outubro,Paraná,175,2010-10-17
+2020,Dezembro,Rio Grande do Norte,794,2020-12-27
+2016,Março,Tocantins,698,2016-03-08
+2010,Outubro,Roraima,113,2010-10-07
+2010,Agosto,Mato Grosso,429,2010-08-05
+2016,Dezembro,Distrito Federal,421,2016-12-17
+2022,Outubro,Paraná,894,2022-10-28
+2021,Dezembro,Alagoas,723,2021-12-05
+2018,Abril,Piauí,333,2018-04-22
+2017,Setembro,Minas Gerais,322,2017-09-06
+2017,Setembro,Mato Grosso,560,2017-09-12
+2020,Dezembro,Rondônia,659,2020-12-26
+2021,Maio,Rio Grande do Norte,496,2021-05-07
+2013,Maio,Piauí,306,2013-05-08
+2014,Maio,Roraima,213,2014-05-23
+2021,Agosto,Mato Grosso,492,2021-08-12
+2018,Dezembro,Goiás,295,2018-12-04
+2019,Novembro,Piauí,389,2019-11-13
+2023,Junho,São Paulo,824,2023-06-05
+2014,Janeiro,Maranhão,979,2014-01-23
+2011,Junho,Paraíba,672,2011-06-09
+2021,Agosto,Distrito Federal,207,2021-08-27
+2018,Maio,Piauí,713,2018-05-09
+2012,Fevereiro,Rio Grande do Norte,759,2012-02-19
+2013,Abril,Alagoas,686,2013-04-17
+2013,Novembro,Espírito Santo,54,2013-11-04
+2016,Junho,Roraima,484,2016-06-04
+2020,Março,Acre,988,2020-03-18
+2024,Março,Pará,669,2024-03-16
+2017,Novembro,Distrito Federal,775,2017-11-10
+2015,Maio,Rio Grande do Sul,61,2015-05-25
+2011,Novembro,Rio de Janeiro,238,2011-11-18
+2021,Dezembro,Alagoas,936,2021-12-06
+2016,Março,Alagoas,857,2016-03-13
+2022,Agosto,Ceará,960,2022-08-24
+2023,Maio,Alagoas,10,2023-05-10
+2019,Outubro,Amazonas,951,2019-10-11
+2014,Agosto,Rio Grande do Sul,557,2014-08-17
+2017,Março,Pernambuco,480,2017-03-09
+2013,Fevereiro,Mato Grosso,167,2013-02-24
+2017,Novembro,Goiás,736,2017-11-06
+2010,Dezembro,Mato Grosso,810,2010-12-10
+2019,Novembro,São Paulo,198,2019-11-06
+2019,Novembro,Minas Gerais,847,2019-11-14
+2018,Junho,Amapá,411,2018-06-22
+2011,Março,Bahia,489,2011-03-11
+2024,Abril,Acre,268,2024-04-13
+2013,Agosto,São Paulo,274,2013-08-11
+2014,Outubro,Santa Catarina,587,2014-10-01
+2014,Novembro,Mato Grosso do Sul,710,2014-11-08
+2010,Novembro,Amazonas,477,2010-11-10
+2012,Julho,Rondônia,515,2012-07-23
+2022,Maio,Roraima,121,2022-05-21
+2024,Maio,Mato Grosso do Sul,630,2024-05-08
+2013,Março,Paraná,157,2013-03-15
+2021,Outubro,Mato Grosso do Sul,426,2021-10-23
+2018,Agosto,São Paulo,551,2018-08-26
+2020,Abril,São Paulo,254,2020-04-22
+2022,Outubro,Sergipe,84,2022-10-17
+2017,Setembro,Roraima,371,2017-09-03
+2024,Outubro,Amazonas,64,2024-10-27
+2018,Setembro,Distrito Federal,587,2018-09-18
+2012,Março,Mato Grosso,875,2012-03-17
+2017,Fevereiro,Rondônia,211,2017-02-23
+2019,Agosto,Amapá,921,2019-08-17
+2017,Janeiro,Paraíba,136,2017-01-17
+2016,Agosto,Rio de Janeiro,60,2016-08-18
+2017,Novembro,Sergipe,316,2017-11-24
+2010,Julho,Goiás,837,2010-07-01
+2021,Abril,Rio de Janeiro,75,2021-04-02
+2016,Junho,Roraima,66,2016-06-18
+2010,Fevereiro,Paraná,33,2010-02-10
+2016,Março,São Paulo,139,2016-03-25
+2020,Dezembro,Rio Grande do Sul,987,2020-12-14
+2015,Julho,Paraíba,891,2015-07-13
+2016,Fevereiro,Rondônia,988,2016-02-22
+2023,Setembro,Bahia,670,2023-09-28
+2015,Fevereiro,Ceará,551,2015-02-13
+2018,Março,Santa Catarina,229,2018-03-27
+2010,Janeiro,Maranhão,475,2010-01-22
+2021,Setembro,Pará,545,2021-09-13
+2023,Abril,Espírito Santo,472,2023-04-12
+2012,Maio,Distrito Federal,960,2012-05-24
+2022,Fevereiro,Alagoas,829,2022-02-22
+2016,Outubro,São Paulo,959,2016-10-01
+2013,Abril,Amapá,104,2013-04-20
+2010,Agosto,Rio Grande do Norte,689,2010-08-23
+2023,Janeiro,Espírito Santo,759,2023-01-02
+2016,Agosto,Espírito Santo,553,2016-08-07
+2022,Janeiro,Bahia,516,2022-01-10
+2013,Dezembro,Rio de Janeiro,327,2013-12-19
+2019,Novembro,Tocantins,329,2019-11-08
+2014,Março,Rondônia,534,2014-03-08
+2016,Maio,Goiás,63,2016-05-18
+2019,Dezembro,Ceará,642,2019-12-22
+2016,Setembro,Paraná,49,2016-09-12
+2020,Novembro,Minas Gerais,805,2020-11-17
+2015,Dezembro,Pará,419,2015-12-05
+2014,Julho,Ceará,773,2014-07-18
+2017,Abril,Espírito Santo,308,2017-04-28
+2021,Março,Sergipe,475,2021-03-02
+2018,Julho,Pará,571,2018-07-17
+2012,Julho,Espírito Santo,262,2012-07-07
+2015,Novembro,Amapá,945,2015-11-15
+2023,Junho,Amapá,549,2023-06-24
+2023,Abril,Alagoas,275,2023-04-13
+2020,Outubro,Rio Grande do Norte,41,2020-10-28
+2011,Abril,Sergipe,780,2011-04-19
+2021,Novembro,Piauí,223,2021-11-16
+2013,Junho,Maranhão,980,2013-06-01
+2013,Abril,Santa Catarina,121,2013-04-24
+2022,Agosto,Espírito Santo,713,2022-08-20
+2021,Abril,Minas Gerais,938,2021-04-08
+2018,Junho,São Paulo,290,2018-06-13
+2017,Setembro,Rio Grande do Sul,368,2017-09-10
+2014,Junho,Pernambuco,904,2014-06-16
+2017,Fevereiro,Sergipe,740,2017-02-16
+2022,Junho,Distrito Federal,380,2022-06-11
+2016,Janeiro,Rio de Janeiro,885,2016-01-08
+2021,Março,Acre,268,2021-03-18
+2024,Outubro,Rio de Janeiro,738,2024-10-14
+2014,Março,Distrito Federal,338,2014-03-08
+2016,Outubro,Tocantins,252,2016-10-16
+2018,Novembro,Rondônia,346,2018-11-09
+2022,Agosto,Santa Catarina,658,2022-08-24
+2017,Agosto,Ceará,751,2017-08-26
+2015,Março,Bahia,738,2015-03-18
+2017,Março,Piauí,658,2017-03-02
+2018,Janeiro,Tocantins,868,2018-01-03
+2023,Novembro,Alagoas,783,2023-11-01
+2016,Março,Tocantins,646,2016-03-08
+2011,Dezembro,Bahia,10,2011-12-07
+2018,Agosto,Mato Grosso do Sul,62,2018-08-20
+2020,Novembro,Rio Grande do Norte,935,2020-11-16
+2020,Agosto,Acre,7,2020-08-18
+2018,Julho,Acre,18,2018-07-17
+2021,Maio,Piauí,294,2021-05-01
+2018,Dezembro,Rondônia,441,2018-12-26
+2024,Março,Amazonas,941,2024-03-04
+2018,Março,Espírito Santo,197,2018-03-20
+2018,Maio,Tocantins,363,2018-05-09
+2022,Julho,Amapá,383,2022-07-13
+2017,Outubro,Espírito Santo,714,2017-10-08
+2014,Novembro,Tocantins,869,2014-11-03
+2020,Novembro,São Paulo,33,2020-11-03
+2016,Julho,Minas Gerais,566,2016-07-16
+2010,Novembro,Acre,720,2010-11-06
+2011,Agosto,Pará,661,2011-08-26
+2015,Outubro,Amazonas,917,2015-10-17
+2024,Janeiro,Espírito Santo,217,2024-01-28
+2021,Outubro,Paraná,278,2021-10-02
+2024,Fevereiro,Rondônia,948,2024-02-09
+2024,Setembro,Rio de Janeiro,674,2024-09-02
+2012,Junho,Acre,985,2012-06-07
+2019,Março,São Paulo,841,2019-03-23
+2023,Julho,Amapá,307,2023-07-06
+2019,Abril,Rio de Janeiro,855,2019-04-28
+2016,Novembro,Piauí,340,2016-11-13
+2022,Dezembro,Bahia,810,2022-12-23
+2021,Fevereiro,Pernambuco,764,2021-02-12
+2010,Fevereiro,Pará,238,2010-02-27
+2011,Junho,Rio Grande do Norte,788,2011-06-20
+2019,Julho,São Paulo,335,2019-07-01
+2020,Maio,Sergipe,462,2020-05-16
+2013,Junho,Piauí,964,2013-06-13
+2016,Março,Rondônia,600,2016-03-22
+2016,Fevereiro,São Paulo,634,2016-02-10
+2022,Abril,Roraima,76,2022-04-03
+2014,Março,Minas Gerais,729,2014-03-26
+2020,Março,Santa Catarina,399,2020-03-11
+2015,Fevereiro,Amapá,6,2015-02-10
+2017,Junho,São Paulo,277,2017-06-04
+2012,Fevereiro,Ceará,442,2012-02-15
+2018,Setembro,Pernambuco,418,2018-09-04
+2010,Fevereiro,Mato Grosso do Sul,568,2010-02-03
+2019,Outubro,Sergipe,333,2019-10-28
+2016,Janeiro,Maranhão,424,2016-01-13
+2022,Fevereiro,Santa Catarina,923,2022-02-18
+2024,Abril,Rio de Janeiro,534,2024-04-06
+2020,Julho,Ceará,143,2020-07-09
+2014,Maio,Paraná,150,2014-05-03
+2012,Julho,Goiás,432,2012-07-10
+2017,Fevereiro,Mato Grosso do Sul,258,2017-02-08
+2021,Novembro,Paraná,609,2021-11-20
+2013,Agosto,Amazonas,139,2013-08-10
+2010,Julho,Mato Grosso,862,2010-07-20
+2016,Junho,Paraíba,343,2016-06-14
+2023,Novembro,Rio Grande do Norte,140,2023-11-10
+2015,Outubro,Roraima,206,2015-10-16
+2015,Março,Minas Gerais,992,2015-03-11
+2014,Dezembro,Roraima,649,2014-12-16
+2019,Abril,Mato Grosso,386,2019-04-09
+2023,Julho,Mato Grosso do Sul,117,2023-07-19
+2013,Outubro,Piauí,185,2013-10-22
+2022,Setembro,Acre,976,2022-09-24
+2017,Dezembro,Distrito Federal,449,2017-12-26
+2014,Dezembro,Amapá,839,2014-12-28
+2022,Julho,Rondônia,512,2022-07-05
+2020,Maio,Espírito Santo,259,2020-05-22
+2012,Dezembro,Pará,809,2012-12-13
+2011,Agosto,Rio Grande do Norte,491,2011-08-19
+2016,Setembro,Pernambuco,946,2016-09-28
+2021,Julho,Piauí,38,2021-07-26
+2015,Dezembro,Sergipe,550,2015-12-20
+2020,Fevereiro,Amazonas,788,2020-02-08
+2020,Novembro,Mato Grosso do Sul,171,2020-11-21
+2019,Janeiro,Rio de Janeiro,661,2019-01-22
+2020,Julho,São Paulo,340,2020-07-26
+2016,Fevereiro,Acre,101,2016-02-09
+2013,Setembro,Santa Catarina,532,2013-09-18
+2019,Dezembro,Rio de Janeiro,227,2019-12-15
+2015,Julho,Paraíba,791,2015-07-22
+2019,Dezembro,Pernambuco,155,2019-12-12
+2010,Agosto,Amazonas,303,2010-08-14
+2024,Fevereiro,Amazonas,852,2024-02-24
+2012,Junho,Maranhão,352,2012-06-15
+2022,Abril,Pernambuco,495,2022-04-12
+2017,Fevereiro,Paraíba,740,2017-02-23
+2017,Junho,Amapá,308,2017-06-02
+2022,Dezembro,Amazonas,24,2022-12-28
+2015,Novembro,Amazonas,694,2015-11-26
+2012,Dezembro,Espírito Santo,529,2012-12-06
+2018,Março,Mato Grosso,574,2018-03-14
+2017,Abril,Sergipe,415,2017-04-21
+2012,Março,Rio Grande do Sul,674,2012-03-14
+2016,Janeiro,Santa Catarina,629,2016-01-07
+2017,Outubro,Pará,399,2017-10-01
+2021,Abril,Distrito Federal,286,2021-04-25
+2021,Fevereiro,Rio de Janeiro,105,2021-02-26
+2023,Setembro,Ceará,375,2023-09-11
+2013,Agosto,Amazonas,269,2013-08-22
+2023,Agosto,Pernambuco,990,2023-08-21
+2015,Outubro,Minas Gerais,626,2015-10-13
+2019,Fevereiro,Mato Grosso do Sul,361,2019-02-28
+2017,Outubro,Ceará,834,2017-10-22
+2021,Maio,Rio Grande do Norte,605,2021-05-03
+2020,Março,Mato Grosso,121,2020-03-08
+2014,Fevereiro,Ceará,383,2014-02-23
+2012,Setembro,Minas Gerais,429,2012-09-20
+2012,Outubro,Minas Gerais,434,2012-10-06
+2017,Novembro,Piauí,711,2017-11-21
+2024,Março,Piauí,171,2024-03-16
+2014,Março,Ceará,323,2014-03-27
+2017,Outubro,Alagoas,887,2017-10-12
+2010,Agosto,Bahia,200,2010-08-27
+2016,Setembro,Pernambuco,669,2016-09-16
+2016,Novembro,Paraná,426,2016-11-23
+2023,Agosto,Paraná,172,2023-08-03
+2019,Janeiro,Sergipe,780,2019-01-08
+2014,Janeiro,Goiás,231,2014-01-18
+2014,Março,São Paulo,469,2014-03-19
+2021,Agosto,Piauí,524,2021-08-04
+2019,Fevereiro,Goiás,794,2019-02-18
+2023,Junho,Piauí,843,2023-06-25
+2010,Dezembro,Paraíba,560,2010-12-07
+2016,Fevereiro,Santa Catarina,850,2016-02-21
+2022,Abril,Maranhão,896,2022-04-02
+2017,Maio,Mato Grosso do Sul,883,2017-05-27
+2011,Agosto,Amazonas,795,2011-08-26
+2013,Abril,Sergipe,756,2013-04-19
+2021,Junho,Roraima,625,2021-06-21
+2016,Março,Rio Grande do Norte,143,2016-03-26
+2013,Abril,Sergipe,61,2013-04-19
+2015,Setembro,Goiás,612,2015-09-18
+2012,Junho,Roraima,300,2012-06-10
+2019,Maio,Pernambuco,922,2019-05-22
+2023,Fevereiro,Bahia,986,2023-02-25
+2022,Julho,Alagoas,284,2022-07-28
+2020,Março,Roraima,887,2020-03-05
+2013,Março,Roraima,330,2013-03-27
+2013,Novembro,Minas Gerais,502,2013-11-05
+2019,Novembro,Goiás,643,2019-11-14
+2016,Agosto,Amapá,649,2016-08-26
+2024,Fevereiro,Minas Gerais,528,2024-02-24
+2014,Dezembro,Mato Grosso do Sul,466,2014-12-16
+2015,Outubro,Acre,890,2015-10-25
+2023,Dezembro,Amapá,749,2023-12-15
+2020,Novembro,Roraima,367,2020-11-28
+2011,Setembro,Minas Gerais,224,2011-09-14
+2023,Abril,Paraná,275,2023-04-11
+2023,Maio,Mato Grosso,561,2023-05-19
+2012,Outubro,Paraná,808,2012-10-11
+2024,Novembro,São Paulo,50,2024-11-02
+2011,Novembro,Sergipe,857,2011-11-15
+2010,Fevereiro,Ceará,452,2010-02-15
+2010,Julho,Distrito Federal,706,2010-07-05
+2024,Novembro,Maranhão,163,2024-11-28
+2024,Maio,Amapá,671,2024-05-12
+2014,Fevereiro,Mato Grosso do Sul,681,2014-02-21
+2012,Janeiro,Minas Gerais,641,2012-01-10
+2021,Dezembro,São Paulo,240,2021-12-14
+2020,Fevereiro,Roraima,98,2020-02-01
+2013,Agosto,Amapá,136,2013-08-19
+2013,Setembro,Rondônia,456,2013-09-01
+2010,Dezembro,Mato Grosso,837,2010-12-04
+2023,Julho,Roraima,136,2023-07-16
+2011,Abril,Minas Gerais,92,2011-04-24
+2022,Fevereiro,Amazonas,321,2022-02-12
+2024,Maio,Bahia,392,2024-05-25
+2023,Março,Rio Grande do Sul,694,2023-03-05
+2011,Setembro,Rio de Janeiro,9,2011-09-20
+2020,Março,Paraíba,360,2020-03-24
+2013,Novembro,Santa Catarina,156,2013-11-14
+2019,Novembro,Paraíba,881,2019-11-07
+2011,Fevereiro,Bahia,771,2011-02-04
+2019,Dezembro,Minas Gerais,360,2019-12-14
+2015,Março,Espírito Santo,284,2015-03-21
+2011,Abril,Piauí,616,2011-04-20
+2021,Outubro,Maranhão,798,2021-10-23
+2010,Novembro,Maranhão,211,2010-11-17
+2019,Setembro,Distrito Federal,766,2019-09-13
+2014,Novembro,Alagoas,803,2014-11-26
+2013,Agosto,Minas Gerais,116,2013-08-08
+2017,Novembro,Rio Grande do Norte,73,2017-11-17
+2024,Janeiro,Mato Grosso do Sul,957,2024-01-11
+2012,Julho,Tocantins,583,2012-07-14
+2015,Setembro,Rondônia,177,2015-09-25
+2017,Fevereiro,Acre,602,2017-02-03
+2010,Maio,Distrito Federal,41,2010-05-02
+2022,Julho,Pernambuco,294,2022-07-21
+2021,Setembro,São Paulo,426,2021-09-14
+2021,Julho,Amapá,656,2021-07-18
+2018,Outubro,Bahia,285,2018-10-03
+2014,Fevereiro,Pernambuco,944,2014-02-07
+2022,Março,Piauí,335,2022-03-13
+2019,Novembro,São Paulo,855,2019-11-21
+2020,Novembro,Amapá,318,2020-11-23
+2016,Dezembro,Espírito Santo,60,2016-12-08
+2011,Julho,Amazonas,465,2011-07-20
+2019,Janeiro,Maranhão,683,2019-01-24
+2020,Dezembro,Ceará,123,2020-12-01
+2021,Março,Roraima,12,2021-03-06
+2017,Junho,Pernambuco,530,2017-06-26
+2023,Dezembro,Goiás,171,2023-12-12
+2012,Dezembro,São Paulo,895,2012-12-09
+2021,Fevereiro,São Paulo,922,2021-02-01
+2015,Julho,Goiás,537,2015-07-03
+2014,Dezembro,Rio de Janeiro,643,2014-12-03
+2017,Agosto,Pernambuco,369,2017-08-02
+2017,Outubro,Ceará,377,2017-10-06
+2014,Fevereiro,Rio de Janeiro,691,2014-02-24
+2011,Abril,Santa Catarina,522,2011-04-01
+2010,Janeiro,Espírito Santo,48,2010-01-16
+2015,Julho,Bahia,184,2015-07-28
+2010,Setembro,Sergipe,936,2010-09-23
+2021,Novembro,Pará,230,2021-11-11
+2013,Julho,Santa Catarina,328,2013-07-09
+2023,Fevereiro,Rio de Janeiro,382,2023-02-04
+2018,Novembro,Alagoas,184,2018-11-08
+2022,Setembro,Alagoas,977,2022-09-13
+2011,Agosto,Maranhão,793,2011-08-28
+2014,Junho,Amapá,567,2014-06-15
+2010,Junho,Distrito Federal,299,2010-06-19
+2022,Maio,Santa Catarina,638,2022-05-08
+2017,Junho,Rio de Janeiro,996,2017-06-16
+2022,Abril,Santa Catarina,923,2022-04-18
+2022,Abril,Bahia,7,2022-04-14
+2010,Abril,Piauí,355,2010-04-21
+2023,Dezembro,Acre,974,2023-12-11
+2010,Novembro,Minas Gerais,870,2010-11-24
+2021,Maio,Amazonas,211,2021-05-17
+2013,Julho,Paraná,985,2013-07-02
+2012,Dezembro,Goiás,96,2012-12-02
+2024,Abril,Pernambuco,423,2024-04-23
+2024,Junho,Paraíba,998,2024-06-24
+2011,Outubro,Amazonas,518,2011-10-05
+2020,Julho,Amapá,607,2020-07-19
+2010,Julho,Rondônia,988,2010-07-05
+2013,Maio,Goiás,872,2013-05-11
+2024,Julho,Roraima,852,2024-07-24
+2015,Junho,Paraíba,279,2015-06-08
+2011,Abril,Bahia,799,2011-04-25
+2019,Fevereiro,Bahia,109,2019-02-06
+2017,Agosto,Mato Grosso,417,2017-08-04
+2018,Junho,São Paulo,213,2018-06-15
+2014,Agosto,Goiás,873,2014-08-04
+2011,Março,Sergipe,703,2011-03-10
+2023,Dezembro,Roraima,618,2023-12-02
+2013,Junho,Bahia,94,2013-06-23
+2013,Junho,Minas Gerais,526,2013-06-02
+2020,Maio,Goiás,840,2020-05-06
+2010,Julho,Paraíba,570,2010-07-24
+2018,Abril,Amazonas,474,2018-04-04
+2022,Março,Amazonas,13,2022-03-02
+2023,Abril,Bahia,203,2023-04-27
+2016,Junho,Rondônia,646,2016-06-21
+2011,Outubro,Rio de Janeiro,266,2011-10-27
+2011,Janeiro,Amapá,203,2011-01-21
+2017,Março,Amapá,927,2017-03-28
+2023,Junho,Amazonas,44,2023-06-15
+2010,Março,Rio de Janeiro,444,2010-03-27
+2021,Julho,Paraná,31,2021-07-13
+2020,Julho,Ceará,363,2020-07-07
+2024,Março,Goiás,287,2024-03-15
+2024,Março,Alagoas,629,2024-03-20
+2019,Abril,Rio Grande do Sul,303,2019-04-16
+2016,Setembro,Paraná,63,2016-09-03
